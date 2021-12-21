@@ -2,8 +2,8 @@
 
 ## This repo is a shell for importing modules in Go
 
-* Import from [hackebrot](github.com/hackebrot/turtle)
-* Import locally from the geometry module, created in this repo
+* Import from [hackebrot](https://github.com/hackebrot/turtle)
+* Import locally from the [geometry module](geometry), created in this repo
 
 
 ## Still to-do
